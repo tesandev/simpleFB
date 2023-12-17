@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "58843084167",
+    "firebase_url": "https://realtimefb-659eb-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "realtimefb-659eb",
+    "storage_bucket": "realtimefb-659eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58843084167:android:7ffc613f80cca183be0f22",
+        "android_client_info": {
+          "package_name": "com.tesan.simplefb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGl-5tF8VH0FGoX8dT00gCC3d8g9UeWKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
